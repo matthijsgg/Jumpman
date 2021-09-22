@@ -1,0 +1,16 @@
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.exe
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.deps.json
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.runtimeconfig.json
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.runtimeconfig.dev.json
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.dll
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\ref\Jumpman.dll
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\bin\Debug\net5.0\Jumpman.pdb
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.csproj.AssemblyReference.cache
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.AssemblyInfoInputs.cache
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.AssemblyInfo.cs
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.csproj.CoreCompileInputs.cache
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.dll
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\ref\Jumpman.dll
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.pdb
+C:\Users\GwennySonneville\Desktop\Jumpman\jumpman\obj\Debug\net5.0\Jumpman.genruntimeconfig.cache
